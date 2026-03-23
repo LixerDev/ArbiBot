@@ -3,6 +3,7 @@
 Real-time cross-DEX arbitrage detector for Solana. Compares live quotes from **Raydium**, **Orca**, and **Jupiter**, calculates net profit after swap fees and gas, and alerts you on Discord when a genuinely profitable opportunity is found.
 
 **Built by LixerDev**
+Follow me here on my personal Twitter (X): https://x.com/Lix_Devv
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Python](https://img.shields.io/badge/python-3.11+-green)
