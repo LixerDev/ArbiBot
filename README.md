@@ -1,6 +1,7 @@
 # ⚡ ArbiBot
 
-Real-time cross-DEX arbitrage detector for Solana. Compares live quotes from **Raydium**, **Orca**, and **Jupiter**, calculates net profit after swap fees and gas, and alerts you on Discord when a genuinely profitable opportunity is found.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/57beaae4-4268-42e4-be47-18b408b16506" />
+
 
 **Built by LixerDev**
 Follow me here on my personal Twitter (X): https://x.com/Lix_Devv
