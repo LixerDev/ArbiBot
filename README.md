@@ -144,3 +144,7 @@ main.py (Typer CLI)
                     ├── Alerter        → Discord webhook + cooldown
                     └── Dashboard      → Rich live terminal display
 ```
+
+# ⚡ Coin
+
+<img width="1024" height="1024" alt="Sin título" src="https://github.com/user-attachments/assets/05702974-0de9-4fee-aa34-749c4bb7bd1c" />
